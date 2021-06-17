@@ -1,4 +1,4 @@
-# attendance2
+# Attendance_Project
 attendanceProject
 
 This is a Simple Attendance Checking Project using File Handling Concepts in Java.
